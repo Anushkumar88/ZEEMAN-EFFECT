@@ -1,24 +1,23 @@
 ## Introduction
 
 
-<b>Discipline | <b>Fill your discipline name here
+<b>Discipline | <b> Mini project
 :--|:--|
-<b> Lab | <b> Fill your lab name here
-<b> Experiment|     <b> Fill your experiment name and number here
+<b> Lab | <b> Virtual lab
+<b> Experiment|     <b> ANALYSIS OF THE ANOMALOUS ZEEMAN EFFECT USING AUTOMATED SPECTRAL-LINE SPLITTING
 
 ### About the Experiment 
 
 Fill a brief description of this experiment here
 
-<b>Name of Developer | <b> Fill the name of experiment owner here 
+<b>Name of Developer | <b> Anush kumar 
 :--|:--|
-<b> Institute | <b>  
-<b> Email id|     <b>  
-<b> Department |  
+<b> Institute | <b>  Rajkiya engineering college banda
+<b> Email id|     <b>  anushmasand@gmail.com
+<b> Department |  Information technology
 
 ### Contributors List
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | . | . | . | . | .
-2 | . | . | . | . | .
+1 |Anush kumar |Student |Information Technolgy |Rajkiya Engineering College Banda|anushmasand@gmail.com
